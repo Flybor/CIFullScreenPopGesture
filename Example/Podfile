@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CIFullScreenPopGesture_Example' do
+  pod 'CIFullScreenPopGesture', :path => '../'
+
+  target 'CIFullScreenPopGesture_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
