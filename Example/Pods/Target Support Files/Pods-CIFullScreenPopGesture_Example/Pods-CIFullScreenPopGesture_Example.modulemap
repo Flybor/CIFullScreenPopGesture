@@ -1,0 +1,6 @@
+framework module Pods_CIFullScreenPopGesture_Example {
+  umbrella header "Pods-CIFullScreenPopGesture_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

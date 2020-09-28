@@ -1,0 +1,22 @@
+{
+  "name": "CIFullScreenPopGesture",
+  "version": "0.1.0",
+  "summary": "A short description of CIFullScreenPopGesture.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Flybor/CIFullScreenPopGesture",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Flybor": "18780106592@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Flybor/CIFullScreenPopGesture.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CIFullScreenPopGesture/Classes/**/*"
+}

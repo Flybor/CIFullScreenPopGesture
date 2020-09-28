@@ -1,0 +1,16 @@
+PODS:
+  - CIFullScreenPopGesture (0.1.0)
+
+DEPENDENCIES:
+  - CIFullScreenPopGesture (from `../`)
+
+EXTERNAL SOURCES:
+  CIFullScreenPopGesture:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CIFullScreenPopGesture: 4e2162a804bc677c628be5d359163de1ecd8a41b
+
+PODFILE CHECKSUM: 8355e84544056b9f49beea03fda28921180f85f9
+
+COCOAPODS: 1.9.3
